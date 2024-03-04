@@ -1,2 +1,2 @@
 # myfirstproject
-A code repository for html, css, js.
+This is my first git Repository
